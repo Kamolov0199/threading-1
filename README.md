@@ -1,0 +1,2 @@
+# threading
+birinchi threading faylim
